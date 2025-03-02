@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Farro:wght@300;400;500;700&family=Inconsolata:wght@200..900&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Irish+Grover&family=Jacques+Francois+Shadow&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Farro:wght@300;400;500;700&family=Inconsolata:wght@200..900&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inria+Serif:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Irish+Grover&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Farro:wght@300;400;500;700&family=Inconsolata:wght@200..900&family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inria+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Irish+Grover&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Farro:wght@300;400;500;700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Farro:wght@300;400;500;700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Martian+Mono:wght@100..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Dela+Gothic+One&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Jost:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Syne:wght@400..800&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1 ,h2 ,h3 ,h4 ,h5 ,h6 {
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+:root{
+    --light-color:white;
+    --primary-color:rgba(100, 86, 46, 1);
+    --dark-color:black;
+    --orange-color:orange;
+}
+body{
+background-color: black;
+}
+/*---------------------------------------- top-banner---------------------------------------- */
+/*------------------ navigation---------------- */
+.top-banner  ul li a {
+    font-size: 17px;
+    font-family: "Jacques Francois Shadow", serif;
+    color: bisque;
+}
+.top-banner ul li a:hover {
+    color:var(--light-color) ;
+    text-shadow:0px 3px 5px rgb(204, 17, 17);
+
+}
+.nav-link:focus {
+    color: var(--light-color) ;
+}
+.navbar-toggler {
+background-color: var(--light-color);
+}
+
+/*----------------- banner-content---------------- */
+.top-banner  {
+    background-image: url(../images/WhatsApp\ Image\ 2025-03-02\ at\ 10.42.58\ AM.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: contrast(125%);
+
+}
+.top-banner .banner-content .banner-text h2{
+    color: var(--light-color);
+    font-size: 40px;
+    font-family: "Irish Grover", system-ui;
+    text-align: center;
+    line-height: 40px;
+}
+.top-banner .banner-content .banner-text h2 span{
+    font-size: 75px;
+    line-height: 62px;
+}
+.top-banner .banner-content .banner-text h3{
+    color: var(--light-color);
+    font-weight: 400;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    font-size: 19px;
+    line-height: 32px;
+
+}
+.top-banner .banner-content .banner-text h3 span{
+    font-family: "Inria Serif", serif;
+    font-size: 37px;
+    line-height: 40px;
+
+
+}
+.top-banner .banner-content .banner-text h4{
+    display: none;
+}
+/*---------------------------------------- context-img---------------------------------------- */
+.context-img .container img {
+    box-shadow: 0 2px 30px 0 var(--light-color);
+    border-radius: 20px;
+    filter: contrast(200%);
+}
+/*---------------------------------------- song-list---------------------------------------- */
+.song-list h3{
+    color: var(--light-color);
+    font-family: "Jacques Francois Shadow", serif;
+    font-size: 40px;
+}
+.song-list .owl-carousel .item {
+    box-shadow: 1px -1px 13px 1px rgb(250, 110, 110);
+    border: 1px solid red;
+    border-radius: 15px;
+    margin: 10px;
+}
+.song-list .owl-carousel .item img{
+    width:94px;
+    height: 78px;
+}
+.song-list .owl-carousel .item h3{
+    font-size: 17px;
+    color: rgb(241, 187, 115);
+    text-shadow:0px 3px 5px rgb(204, 17, 17);
+}
+.song-list .owl-carousel .item button{
+    padding: 1px 12px;
+    margin-top: 4px;
+    border-radius: 8px;
+}
+.song-list .owl-carousel .item button:hover{
+    color: rgb(241, 187, 115);
+    background-color: #332c55;
+}
+/*---------------------------------------- describe---------------------------------------- */
+.describe {
+    background-image: url(../images/Frame\ 5.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 0 50px #FF6262;
+    border-radius: 20px;
+
+}
+.describe .describe-text h2{
+    font-size:80px ;
+    line-height: 81px;
+    color: var(--dark-color);
+    text-shadow:0px 3px 5px #CD3737;
+    -webkit-text-stroke: 1px #FB4A4A;
+    text-align: center;
+}
+.describe .describe-button h4{
+    font-family: "Jacques Francois Shadow", serif;
+    font-size: 30px;
+    color: var(--light-color);
+}
+.describe .describe-button button{
+    padding: 6px 20px;
+    font-size: 17px;
+    margin-top: 5px;
+    border-radius: 15px;
+    background-color: darkblue;
+    color: beige;
+    box-shadow: 1px -1px 13px 1px #faec6e;
+}
+.describe .describe-button button:hover{
+    color:darkblue ;
+    background-color: beige;
+
+}
+/*---------------------------------------- founder---------------------------------------- */
+.founder{
+    background-image: url(../images/Frame\ 7.png);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.founder .row h5{
+    font-family: "Inria Serif", serif;
+    text-shadow: -3px 1px 1px #E84141;
+    font-size: 29px;
+    padding: 15px 0px;
+}
+/*---------------------------------------- create---------------------------------------- */
+.create {
+    background-image: url(../images/Frame\ 17.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: contrast(150%);
+    height: 415px;
+
+}
+.create .container button{
+    font-family: "Inria Serif", serif;
+    position: absolute;
+    bottom: 22%;
+    left: 34%;
+    padding: 7px 10px;
+    border-radius: 15px;
+    box-shadow: -5px 4px 11px #FC2424;
+}
+.create .container button:hover{
+    background-color:#ecf0e1 ;
+    box-shadow: -5px 4px 11px #ecf0e1;
+
+}
+/*---------------------------------------- fotter---------------------------------------- */
+.site-footer {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    font-family: 'Arial', sans-serif;
+}
+
+
+.footer-section h4 {
+    font-size: 18px;
+    margin-bottom: 15px;
+    color: #f1c40f;
+}
+
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    color: #ecf0f1;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.footer-section ul li a:hover {
+    color: #f1c40f;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    color: #ecf0f1;
+    font-size: 20px;
+    transition: color 0.3s ease;
+}
+
+.social-icons a:hover {
+    color: #f1c40f;
+}
+
+.newsletter-form {
+    display: flex;
+    gap: 10px;
+}
+
+.newsletter-form input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    flex: 1;
+}
+
+.newsletter-form button {
+    padding: 10px 20px;
+    background-color: #f1c40f;
+    border: none;
+    border-radius: 5px;
+    color: #2c3e50;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.newsletter-form button:hover {
+    background-color: #e67e22;
+}
+
+.footer-bottom {
+    text-align: center;
+    padding: 14px 0;
+    border-top: 1px solid #34495e;
+    margin-top: 20px;
+}
+
+.footer-bottom p {
+    margin: 0;
+    font-size: 14px;
+    color: #bdc3c7;
+}
+
