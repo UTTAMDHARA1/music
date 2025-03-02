@@ -10,7 +10,7 @@
 }
 /*----------------- banner-content---------------- */
 .top-banner .banner-content {
-    height: 177px;
+    height: 140px;
 
 }
 
@@ -75,7 +75,7 @@
 }
 /*---------------------------------------- describe---------------------------------------- */
 .describe {
-    box-shadow: 0 0 10px #FF6262;
+    box-shadow: 0 0 7px #FF6262;
     border-radius: 20px;
     height: 160px;
 }

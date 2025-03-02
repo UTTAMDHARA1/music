@@ -133,7 +133,7 @@ background-color: var(--light-color);
     background-size: cover;
     box-shadow: 0 0 50px #FF6262;
     border-radius: 20px;
-
+    filter: contrast(125%);
 }
 .describe .describe-text h2{
     font-size:80px ;
