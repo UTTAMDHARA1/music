@@ -9,10 +9,6 @@
     font-size: 16px;
 }
 /*----------------- banner-content---------------- */
-.top-banner .banner-content {
-    height: 140px;
-
-}
 
 .top-banner .banner-content .banner-text h2{
     color: var(--light-color);
@@ -75,7 +71,7 @@
 }
 /*---------------------------------------- describe---------------------------------------- */
 .describe {
-    box-shadow: 0 0 7px #FF6262;
+    box-shadow: 0 0 7px brown;
     border-radius: 20px;
     height: 160px;
 }
