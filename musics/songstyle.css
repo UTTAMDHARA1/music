@@ -31,7 +31,7 @@ body{
     background-image: url(./images/MacBook\ Air\ -\ 2.png);
     background-repeat: no-repeat;
     background-size: cover;
-    filter: contrast(400%);
+    filter: contrast(400);
 
 }
 /* --------------------------header------------------- */
@@ -47,6 +47,13 @@ header h3{
 header h3 .brand{
     font-size: 55px;
     color: rgb(3, 146, 146);
+}
+header a .fa-solid{
+    font-size: 30px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 100%;
+    color: black;
 }
 .content {
     height: 500px;
