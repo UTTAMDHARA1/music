@@ -1,4 +1,8 @@
 @media only screen and (min-width:200px) and (max-width:575px){
+    body{
+        filter: contrast(400%);
+    
+    }    
     .content .content2 audio{
         width: 270px;
         height: 40px;
@@ -8,7 +12,7 @@
         line-height: 33px;
     }
     .content {
-        height: 500px;
+        height: 450px;
         position: relative;
     }
     .content .content2 {
