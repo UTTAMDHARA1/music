@@ -28,10 +28,11 @@ ul{
     --orange-color:orange;
 }
 body{
-    background-image: url(./images/MacBook\ Air\ -\ 2.png);
+    background-image: url(./images/WhatsApp\ Image\ 2025-03-03\ at\ 6.00.12\ PM.jpeg);
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
-    filter: contrast(400);
+    filter:contrast(150%);
 
 }
 /* --------------------------header------------------- */
@@ -54,6 +55,7 @@ header a .fa-solid{
     padding: 10px;
     border-radius: 100%;
     color: black;
+    background-color: wheat;
 }
 .content {
     height: 500px;
