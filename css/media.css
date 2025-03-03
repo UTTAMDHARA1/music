@@ -115,7 +115,7 @@
     height: 178px;
 }
 .create .container button{
-    bottom: 17%;
+    bottom: 12%;
     left: 14%;
     padding: 6px 8px;
     border-radius: 15px;
@@ -131,6 +131,12 @@
 
 .footer-section ul li {
     margin-bottom: 0px;
+}
+.newsletter-form button {
+    padding: 8px 13px;
+}
+.footer-section p{
+    font-size: 15px;
 }
 
 }
