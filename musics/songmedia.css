@@ -1,0 +1,28 @@
+@media only screen and (min-width:200px) and (max-width:575px){
+    .content .content2 audio{
+        width: 270px;
+        height: 40px;
+    }
+    header h3{
+        font-size:29px ;
+        line-height: 33px;
+    }
+    .content {
+        height: 500px;
+        position: relative;
+    }
+    .content .content2 {
+    position: absolute;
+    top: 23%;
+    left: 10%;
+    padding: 12px;
+    }
+    .content .content2 h4{
+        font-size: 21px;
+        margin-bottom: 10px;
+    
+    }
+    .content .content2 img{
+        width: 180px;
+    }
+}
