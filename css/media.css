@@ -138,5 +138,29 @@
 .footer-section p{
     font-size: 15px;
 }
+.footer-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+}
+
+.footer-section {
+        margin-bottom: 30px;
+}
+
+.social-icons {
+        justify-content: start;
+}
+
+.newsletter-form {
+        flex-direction: column;
+}
+
+.newsletter-form button {
+        width: 100%;
+}
+.footer-bottom {
+    margin-top: 0px;
+}
 
 }
