@@ -50,12 +50,13 @@ header h3 .brand{
     color: rgb(3, 146, 146);
 }
 header a .fa-solid{
-    font-size: 30px;
+    font-size: 21px;
     border: 2px solid white;
-    padding: 10px;
-    border-radius: 100%;
+    padding: 15px;
+    border-radius: 50%;
     color: black;
-    background-color: wheat;
+    margin-top: 10px;
+    background-color: rgb(247, 245, 242);
 }
 .content {
     height: 500px;
