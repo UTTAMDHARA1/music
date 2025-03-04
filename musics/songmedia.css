@@ -18,12 +18,12 @@
     }
     
     .content {
-        height: 490px;
+        height: 500px;
         position: relative;
     }
     .content .content2 {
     position: absolute;
-    top: 15%;
+    top: 16%;
     left: 10%;
     padding: 12px;
     }
