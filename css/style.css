@@ -59,6 +59,20 @@ background-color: var(--light-color);
     filter: contrast(125%);
 
 }
+.top-banner .offcanvas {
+    background-color: var(--light-color);
+
+}
+.top-banner .offcanvas .offcanvas-body{
+    padding: 4px;
+}
+.top-banner .offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link {
+ color: black;
+ font-size: 13px;
+ padding: 3px;
+
+}
+
 .top-banner .banner-content .banner-text h2{
     color: var(--light-color);
     font-size: 40px;
