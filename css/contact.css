@@ -1,37 +1,45 @@
 /* Custom Styles */
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f8f9fa;
-    color: #333;
+    background-color: #01101f;
+    color: #f1f1f7;
   }
   
+  
   .contact-us {
-    background-color: #fff;
     padding: 60px 0;
   }
+  .contact-us a .fa-solid{
+    font-size: 17px;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 50%;
+    color: black;
+    background-color: rgb(247, 245, 242);
+}
+
   .contact-us h1 {
     font-size: 3rem;
     font-weight: bold;
-    color: #333;
   }
   
   .contact-us h2 {
     font-size: 2rem;
     font-weight: bold;
-    color: #333;
     margin-bottom: 1.5rem;
   }
   
   .contact-us p {
     font-size: 1.1rem;
     line-height: 1.8;
-    color: #555;
   }
   
   .contact-info {
-    background-color: #f8f9fa;
     border-radius: 10px;
     transition: transform 0.3s ease;
+    box-shadow: 2px 2px 3px 1px white;
+    margin-bottom: 10px;
+
   }
   
   .contact-info:hover {
