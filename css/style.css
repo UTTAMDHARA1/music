@@ -33,12 +33,28 @@ background-color: black;
 }
 /*---------------------------------------- top-banner---------------------------------------- */
 /*------------------ navigation---------------- */
+.top-banner .offcanvas {
+    background-color: var(--light-color);
+
+}
+.top-banner .offcanvas .offcanvas-body{
+    padding: 4px;
+}
+.top-banner .offcanvas .offcanvas-body  ul li a {
+ color: black;
+ font-size: 13px;
+ padding: 6px;
+
+}
+.top-banner .offcanvas .offcanvas-body  ul li a:hover{
+    font-family: "Inter", sans-serif;
+}
 .top-banner  ul li a {
     font-size: 17px;
     font-family: "Jacques Francois Shadow", serif;
     color: bisque;
 }
-.top-banner ul li a:hover {
+.top-banner .navbar ul li a:hover {
     color:var(--light-color) ;
     text-shadow:0px 3px 5px rgb(204, 17, 17);
 
@@ -59,20 +75,6 @@ background-color: var(--light-color);
     filter: contrast(125%);
 
 }
-.top-banner .offcanvas {
-    background-color: var(--light-color);
-
-}
-.top-banner .offcanvas .offcanvas-body{
-    padding: 4px;
-}
-.top-banner .offcanvas .offcanvas-body .navbar-nav .nav-item .nav-link {
- color: black;
- font-size: 13px;
- padding: 3px;
-
-}
-
 .top-banner .banner-content .banner-text h2{
     color: var(--light-color);
     font-size: 40px;
