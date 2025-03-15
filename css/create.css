@@ -12,7 +12,15 @@ body {
     font-size: 3rem;
     font-weight: bold;
   }
-  
+  .create-music a .fa-solid{
+    font-size: 17px;
+    border: 2px solid white;
+    padding: 16px;
+    border-radius: 50%;
+    color: black;
+    background-color: rgb(247, 245, 242);
+}
+
   .create-music p {
     font-size: 1.1rem;
     line-height: 1.8;
