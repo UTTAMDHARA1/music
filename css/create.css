@@ -6,6 +6,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     color: #fdfbfb;
+    filter: contrast(200%);
   }
   
   .create-music h1 {
@@ -25,9 +26,3 @@ body {
     font-size: 1.1rem;
     line-height: 1.8;
   }
-  /* @media only screen and (min-width:200px) and (max-width:575px){
-    .create-music  iframe{
-        width: 350px;
-
-    }
-  } */
